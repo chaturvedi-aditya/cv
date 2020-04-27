@@ -1,61 +1,68 @@
 body{
   margin: 0;
   text-align: center;
-  font-family: sans-serif;
 }
 
 h1{
-  color: #527318;
+  color: #27496d;
   margin-top: 0;
-  font-family: 'Special Elite', cursive;
+  font-family: 'Clicker Script', cursive;
+
 }
 
 h2{
-  color: #527318;
+  color: #27496d;
   margin-top: 0;
-  font-family: 'Special Elite', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 
 h3{
-  color: #527318;
+  color: #27496d;
   margin-top: 0;
-  font-family: 'Special Elite', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 
 
 p{
-  color: #899857;
+  color: #142850;
   font-family: 'Comfortaa', cursive;
+  padding: 10px;
+}
+
+.top-container h1{
+  display: inline-block;
+  font-size: 70px;
+  padding-top: 100px;
 }
 
 .top-container{
-  background: #ffe75e;
+  background: #dae1e7;
   position: relative;
   padding-top: 200px;
 }
 
 .middle-container{
-  background: #ffe75e;
+  background: #dae1e7;
 
 
 }
 
 .bottom-container{
-  background: #ffe75e;
+  background: #dae1e7;
 
 }
 
 .cloud1{
   position: absolute;
-  top: 100px;
-  right: 300px;
+  top: 20%;
+  right: 50px;
   width: 10%;
 }
 
 .cloud2{
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 50px;
+  bottom: 20%;
   width: 10%;
 }
 
